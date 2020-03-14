@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\employee"/>
+			<item value="C:\Users\HP\Downloads\SellerSignupService (1)"/>
+			<item value="C:\Users\HP\Downloads\SellerSignupService (1)\SellerSignupService"/>
+			<item value="C:\Users\HP\Downloads\SellerSignupService (1)\SellerSignupService\SellerSignupService"/>
+			<item value="C:\Users\HP\Downloads\SellerSignupService"/>
+			<item value="C:\Users\HP\Downloads\BuyerSignupService"/>
+			<item value="D:\project\eMart"/>
+			<item value="D:\project\ZuulGatewayService"/>
+			<item value="D:\project\login-service"/>
+			<item value="D:\project\eureka-discovery-server"/>
+			<item value="D:\project\buyer-item-service"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

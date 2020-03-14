@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BuyerSignupPojo.java&apos; to &apos;com.project.BuyerSignupService.model.BuyerSignupPojo.java&apos;&#x0D;&#x0A;- Original project: &apos;eMart&apos;&#x0D;&#x0A;- Destination element: &apos;com.project.BuyerSignupService.model.BuyerSignupPojo.java&apos;&#x0D;&#x0A;- Original element: &apos;com.abc.eMart.model.BuyerSignupPojo.java&apos;" description="Copy compilation unit" destination="=BuyerSignupService/src\/main\/java&lt;com.project.BuyerSignupService.model{BuyerSignupPojo.java" element1="/src\/main\/java&lt;com.abc.eMart.model{BuyerSignupPojo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1583827316223" units="1" version="1.0"/>
+</session>
